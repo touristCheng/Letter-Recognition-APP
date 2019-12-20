@@ -5,4 +5,4 @@ This is a letter recognition application, it can recognize the letters appeared 
 
 ## Results
 
-[res](./result2.jpeg)
+![res](result2.jpeg)
