@@ -5,6 +5,4 @@ This is a letter recognition application, it can recognize the letters appeared 
 
 ## Results
 
-<center class="center">
-    <img src="result2.jpeg" width="200"/>
-</center>
+[res](result2.jpeg)
