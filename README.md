@@ -1,6 +1,6 @@
 # Letter Recognition Application
 
-## Overview
+## Introduction
 A letter recognition application build with OpenCV framework.
 
 ## Results
