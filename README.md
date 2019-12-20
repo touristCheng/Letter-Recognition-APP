@@ -5,8 +5,6 @@ This is a letter recognition application, it can recognize the letters appeared 
 
 ## Results
 
-<div align="center">
-<img src=https://raw.githubusercontent.com/touristCheng/Letter-Recognition-APP/master/result.jpeg onload='this.width=155'/> 
-<img src=https://raw.githubusercontent.com/touristCheng/Letter-Recognition-APP/master/result1.jpeg onload='this.width=155'/>
-<img src=https://raw.githubusercontent.com/touristCheng/Letter-Recognition-APP/master/result2.jpeg onload='this.width=155'/>
-</div>
+<center class="half">
+    <img src="result2.jpeg" width="200"/>
+</center>
