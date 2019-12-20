@@ -5,4 +5,6 @@ A letter recognition application build with OpenCV framework.
 
 ## Results
 
-![res](result2.jpeg)
+<div align="center">
+<img src="result2.jpeg" width="300"/> 
+</div>
